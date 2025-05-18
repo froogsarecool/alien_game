@@ -12,7 +12,7 @@ from enemy import Enemy
 # Initialize Pygame
 pygame.init()
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("True Platformer Engine")
+pygame.display.set_caption("platformer")
 clock = pygame.time.Clock()
 
 # Create game objects
